@@ -1,9 +1,5 @@
 // "use strict";
 
-// const array = [1, 2, 3, 4];
+// const num = 12.2;
 
-// for (var i = 0; i < array.length; i++) {
-//   setTimeout(function () {
-//     console.log(`index:` + i);
-//   }, 3000);
-// }
+// console.log(Math.round(num));
